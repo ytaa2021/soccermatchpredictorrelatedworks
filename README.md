@@ -26,3 +26,10 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197811
 "Football Match Result Prediction Using Neural Networks and Deep Learning" by Tiwari, Sardar, & Jain, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization
 
 This paper uses data from the 2010-11 through 2017-18 seasons of the English Premier League. It employs recurrent neural networks with LSTM cell modifications to predict the outcome of soccer matches. 
+
+
+https://medium.com/@rolandshum.shc/neural-networks-football-result-prediction-d8b0f933118b
+
+"Neural Networks Football Result Prediction" by E. Tjioe , F. Syakir , R. H. C. Shum, I. Buo
+
+This is a blog post created by students in a neural networks course at another university. They used data from the English Premier League and the Spanish La Liga. They first created baseline models using other machine learning algorithms, like logistic regression and random forests. They then built a neural network and tuned its hyperparameters to predict the winner of each game. They also tested how much money they could win using their model for sports betting. 
