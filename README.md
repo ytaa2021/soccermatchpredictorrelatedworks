@@ -11,3 +11,9 @@ Traditional methods of predicting soccer matches rely on statistical models, how
 
 https://www.mdpi.com/1424-8220/20/11/3213
 "Predicting Wins, Losses and Attributes’ Sensitivities in the Soccer World Cup 2018 Using Neural Network Analysis" by Amr Hassan et. al.
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197811
+Football Match Result Prediction Using Neural Networks and Deep Learning
+Tiwari, Sardar, & Jain, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization
+
+This paper uses data from the 2010-11 through 2017-18 seasons of the English Premier League. It employs recurrent neural networks with LSTM cell modifications to predict the outcome of soccer matches. 
