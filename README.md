@@ -23,6 +23,6 @@ This paper analyzes data from the 2018 World Cup to create a model for predictin
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197811
 
-Football Match Result Prediction Using Neural Networks and Deep Learning by Tiwari, Sardar, & Jain, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization
+"Football Match Result Prediction Using Neural Networks and Deep Learning" by Tiwari, Sardar, & Jain, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization
 
 This paper uses data from the 2010-11 through 2017-18 seasons of the English Premier League. It employs recurrent neural networks with LSTM cell modifications to predict the outcome of soccer matches. 
