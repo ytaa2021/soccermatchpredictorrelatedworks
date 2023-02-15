@@ -33,3 +33,10 @@ https://medium.com/@rolandshum.shc/neural-networks-football-result-prediction-d8
 "Neural Networks Football Result Prediction" by E. Tjioe , F. Syakir , R. H. C. Shum, I. Buo
 
 This is a blog post created by students in a neural networks course at another university. They used data from the English Premier League and the Spanish La Liga. They first created baseline models using other machine learning algorithms, like logistic regression and random forests. They then built a neural network and tuned its hyperparameters to predict the winner of each game. They also tested how much money they could win using their model for sports betting. 
+
+
+https://link.springer.com/article/10.1007/s42452-019-1821-5
+
+“A deep learning framework for football [soccer] match predictions” by Ashiqur Rahman
+
+This article, written by Ashiqur Rahman, focused on predicting the outcome of international soccer matches with a focus on the 2018 World Cup. The model was able to accurately predict 63.3% of outcomes correctly, however the author did mention that this number could be increased through more and accurate information on the teams. Some limitations to consider were that the model was able to accurately predict the majority of group stage matches, but failed quite often when it came to quarterfinal, semi-finals, and final matches; this may be because in the later stages teams tend to better matched up with each other, so the model was not be able to label a substantial difference in each team’s possibility to win.
